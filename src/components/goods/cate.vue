@@ -324,7 +324,6 @@ export default {
   margin-top: 15px;
 }
 .el-cascader {
-  height: 200px;
   width: 100%;
 }
 </style>
